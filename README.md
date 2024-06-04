@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SGTWaffles-F34
+- 👋 Hi, I’m Gavin Sherman
 - 👀 I’m interested in Java, HTML and PHP
 - 🌱 I’m currently learning Web Development (LAMP)
 - 💞️ I’m looking to collaborate on anything Java for sure but really any cool project
